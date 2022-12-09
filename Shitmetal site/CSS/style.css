@@ -14,7 +14,7 @@ body {
     grid-area: header;
     padding: 10.5rem;
     margin: 0px 0px 10px 10px;
-    background-image:('C:\Users\ailto\OneDrive\Área de Trabalho\Shitmetal site\Imgs\Banner-home.gif');
+    background-image:('Imgs\Banner-home.gif');
     }
 
     
@@ -80,7 +80,12 @@ font-weight:normal;
 
 /*Banner*/
 
+img {
+    width:800px;
+    
 
+    
+}
 
 /*Final Banner*/
 
